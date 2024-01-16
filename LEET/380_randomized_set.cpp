@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// O(1) Complexity
 class RandomizedSet {
 private:
     std::unordered_map<int, int> indices;
